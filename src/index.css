@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;800&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Playfair Display", serif;
+  --font-body: "Lato", sans-serif;
+  --color-navy: #061a40;
+  --color-navy-deep: #003559;
+  --color-sky: #bad7f2;
+}
+.hide-scrollbar {
+  /* 1. Hide for Chrome, Safari, and newer Edge (Blink engine) */
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* 2. Hide for Firefox (Gecko engine) */
+  scrollbar-width: none;
+
+  /* 3. Hide for Older Internet Explorer and Legacy Edge */
+  -ms-overflow-style: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--color-navy-deep);
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+}
