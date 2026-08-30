@@ -16,7 +16,7 @@ export const dealMask = "https://www.figma.com/api/mcp/asset/40efb030-d5a3-4897-
 
 export const decorTopLeft = "https://www.figma.com/api/mcp/asset/a3b38180-20da-429e-b396-382f000a2151.svg";
 export const decorHeroDots = "https://www.figma.com/api/mcp/asset/a1a2469c-1fe8-41e2-b826-cf96141d3e66.svg";
-export const decorHeroDotsRight = "https://www.figma.com/api/mcp/asset/c903f569-7eac-4637-8160-5610965181b1.svg";
+export const HeroDotsRight = "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Vector.png";//Done
 export const decorFeaturedDots = "https://www.figma.com/api/mcp/asset/e9bc02d1-29a7-4b27-8c15-7e1ef315e356.svg";
 export const decorUnion1 = "https://www.figma.com/api/mcp/asset/ec043a02-2747-4883-a261-a32e0dd7fc7b.svg";
 export const decorUnion2 = "https://www.figma.com/api/mcp/asset/f3148282-0c79-45f1-a67b-cc9c5c144d38.svg";

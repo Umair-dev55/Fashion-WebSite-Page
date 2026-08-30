@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { heroModel, decorHeroDots, decorHeroDotsRight, arrowDown } from "../assets/figmaAssets";
+import { heroModel, decorHeroDots, HeroDotsRight, arrowDown } from "../assets/figmaAssets";
 
 const container = {
   hidden: {},
@@ -17,8 +17,8 @@ export default function Hero() {
   return (
     <section className="relative bg-sky overflow-hidden pt-40 pb-24 md:pt-52 md:pb-32">
       <img
-        src="src/assets/images/Vector.png"
-        alt=""
+        src={HeroDotsRight}
+        alt="Dots"
         className="hidden md:block absolute left-6 top-40 w-[90px] opacity-70"
       />
 
@@ -27,7 +27,7 @@ export default function Hero() {
         initial="hidden"
         animate="show"
         className="relative z-10 grid md:grid-cols-2 gap-12 items-center px-6 md:px-[150px] max-w-[1440px] mx-auto"
-      >
+      > 
         <div>
           <motion.h1
             variants={item}
@@ -60,7 +60,7 @@ export default function Hero() {
         >
           {/* dote here */}
           <img
-            src="src/assets/images/Vector.png" 
+            src="src/assets/images/Vector.png"
             alt=""
             className="hidden md:block absolute -top-10 left-12 w-[90px] opacity-70"
           />
