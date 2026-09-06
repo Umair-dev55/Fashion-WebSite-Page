@@ -1,5 +1,5 @@
 
-export const heroModel = "https://www.figma.com/api/mcp/asset/4bd31b89-9c15-4753-a89e-8fab8e2b0adc.png";
+export const heroModel = "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/image%20531.png?updatedAt=1787839841422";
 export const heroRight = "https://www.figma.com/api/mcp/asset/b8ceb63f-4c58-48f3-984f-39df747184af.png";
 export const featured1 = "https://www.figma.com/api/mcp/asset/20f221c5-b393-4748-a398-a0062ae90b7d.png";
 export const featured2 = "https://www.figma.com/api/mcp/asset/2e7d9d80-1261-47a1-a740-74e5d09bee9c.png";

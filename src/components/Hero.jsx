@@ -65,7 +65,7 @@ export default function Hero() {
             className="hidden md:block absolute -top-10 left-12 w-[90px] opacity-70"
           />
           <img
-            src="src\assets\images\image 531.png"
+            src={heroModel}
             alt="Model wearing the featured collection"
             className="w-full max-w-[430px] rounded-sm object-cover shadow-xl"
           />
