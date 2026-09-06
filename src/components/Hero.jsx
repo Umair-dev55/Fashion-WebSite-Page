@@ -76,7 +76,7 @@ export default function Hero() {
             className="absolute -bottom-6 right-0 bg-navy-deep  p-6 shadow-lg"
             aria-label="Scroll to collections"
           >
-            <img src="src\assets\images\ArrowHero.png" alt="Arrow" className="w-5 h-5" />
+            <img src={arrowDown} alt="Arrow" className="w-5 h-5" />
           </motion.a>
         </motion.div>
       </motion.div>

@@ -23,6 +23,6 @@ export const decorUnion2 = "https://www.figma.com/api/mcp/asset/f3148282-0c79-45
 export const decorUnion3 = "https://www.figma.com/api/mcp/asset/b50b7032-9158-4d17-9a92-4f9edd78cf03.svg";
 export const footerLine = "https://www.figma.com/api/mcp/asset/26b09678-93ab-4ada-942f-08dc776cdad8.svg";
 export const bagIcon = "https://www.figma.com/api/mcp/asset/8833e9ae-df35-40b8-9add-d429fe4ab26e.svg";
-export const arrowDown = "https://www.figma.com/api/mcp/asset/493d862a-c34c-42a8-b766-2aaf43453cba.svg";
+export const arrowDown = "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/ArrowHero.png?updatedAt=1787839841050";
 export const arrowLeft = "https://www.figma.com/api/mcp/asset/deb6f31e-77a8-4c88-bdfb-f857946c3db4.svg";
 export const arrowRight = "https://www.figma.com/api/mcp/asset/35624771-3f77-40cc-a421-7ac2f9cd9316.svg";
