@@ -60,7 +60,7 @@ export default function Hero() {
         >
           {/* dote here */}
           <img
-            src="src/assets/images/Vector.png"
+            src={HeroDotsRight}
             alt=""
             className="hidden md:block absolute -top-10 left-12 w-[90px] opacity-70"
           />
