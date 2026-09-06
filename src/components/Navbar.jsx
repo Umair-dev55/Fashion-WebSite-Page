@@ -42,7 +42,7 @@ export default function Navbar() {
           className="bg-navy-deep p-3 rounded-sm"
           aria-label="Bag"
         >
-          <img src={bagIcon} alt="" className="w-[22px] h-[22px]" />
+          <img src={bagIcon} alt="" className=" w-[22px] h-[22px]" />
         </motion.button>
       </div>
     </motion.header>
