@@ -23,7 +23,7 @@ export default function BrandStats() {
             alt="Model showcasing the best fashion brand"
             className="w-full max-w-[430px] object-cover shadow-xl"
           />
-          <button className="absolute left-1/2 -translate-x-1/2 -bottom-6 bg-white text-navy-deep font-black uppercase text-[16px] px-8 py-4 shadow-lg whitespace-nowrap">
+          <button className="absolute left-[25%] -bottom-6 bg-white text-navy-deep font-black uppercase text-[16px] px-8 py-4 shadow-lg whitespace-nowrap">
             Explore Now
           </button>
         </motion.div>
