@@ -11,11 +11,11 @@ export const featured3 =
 export const brandImage =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Rectangle%20143.png?updatedAt=1787839841337";
 export const bestSeller1 =
-  "https://www.figma.com/api/mcp/asset/880dd470-362a-421a-ab0d-254c37c1fa5a.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Camiseta%20Feminina%20com%20Estampa%20de%20Borboleta%20Gola%20Redonda%20e%20Manga%20Curta%20Blusa%20Casual%20Primavera%20Ver%C3%A3o%20Regular%20100_%20Algod%C3%A3o.jpg";
 export const bestSeller2 =
   "https://www.figma.com/api/mcp/asset/c9bb7bb4-17c6-4938-9657-9a8bfea5975f.png";
 export const bestSeller3 =
-  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Camiseta%20Feminina%20com%20Estampa%20de%20Borboleta%20Gola%20Redonda%20e%20Manga%20Curta%20Blusa%20Casual%20Primavera%20Ver%C3%A3o%20Regular%20100_%20Algod%C3%A3o.jpg";
+  "https://www.figma.com/api/mcp/asset/c09a35a0-d0ce-4115-be9e-6514c23e01ae.png";
 export const bestSeller4 =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Effortless%20Power%20Pants%20%E2%9C%A8.jpg";
 export const bestSeller5 =
