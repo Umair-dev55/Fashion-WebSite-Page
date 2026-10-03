@@ -3,11 +3,11 @@ export const heroModel =
 export const heroRight =
   "https://www.figma.com/api/mcp/asset/b8ceb63f-4c58-48f3-984f-39df747184af.png";
 export const featured1 =
-  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/item1.png?updatedAt=1787839840987";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/25_0dfa33ac-b294-43a2-beb3-806eb354e113.webp";
 export const featured2 =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/item2.png?updatedAt=1791032281867";
 export const featured3 =
-  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/item3.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/White%20Puff%20Sleeve%20Crop%20Top%20for%20Women%20_%20Chic%20Casual%20Summer%20Look.jpg";
 export const brandImage =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Rectangle%20143.png?updatedAt=1787839841337";
 export const bestSeller1 =
