@@ -15,13 +15,13 @@ export const bestSeller1 =
 export const bestSeller2 =
   "https://www.figma.com/api/mcp/asset/c9bb7bb4-17c6-4938-9657-9a8bfea5975f.png";
 export const bestSeller3 =
-  "https://www.figma.com/api/mcp/asset/c09a35a0-d0ce-4115-be9e-6514c23e01ae.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Camiseta%20Feminina%20com%20Estampa%20de%20Borboleta%20Gola%20Redonda%20e%20Manga%20Curta%20Blusa%20Casual%20Primavera%20Ver%C3%A3o%20Regular%20100_%20Algod%C3%A3o.jpg";
 export const bestSeller4 =
-  "https://www.figma.com/api/mcp/asset/663c7a4b-0aa7-4baf-b4d3-e9c10a389f70.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Effortless%20Power%20Pants%20%E2%9C%A8.jpg";
 export const bestSeller5 =
-  "https://www.figma.com/api/mcp/asset/46fdca6a-a038-4fd5-a97d-2524470a2a38.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Timeless%20elegance%20in%20every%20step_.jpg";
 export const bestSeller6 =
-  "https://www.figma.com/api/mcp/asset/76b6c897-14a5-4e00-a51b-af57ca8eb43a.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Sophisticated%20mustard%20high%20heels%20__.jpg";
 export const dealModel =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/image%20537.png?updatedAt=1787839840974";
 export const dealMask =
