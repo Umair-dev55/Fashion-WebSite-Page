@@ -3,13 +3,13 @@ export const heroModel =
 export const heroRight =
   "https://www.figma.com/api/mcp/asset/b8ceb63f-4c58-48f3-984f-39df747184af.png";
 export const featured1 =
-  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/image%20532.png?updatedAt=1787839841710";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/item1.png?updatedAt=1787839840987";
 export const featured2 =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/item2.png?updatedAt=1791032281867";
 export const featured3 =
   "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/item3.png";
 export const brandImage =
-  "https://www.figma.com/api/mcp/asset/9dd0599a-973e-4f60-8927-0e63d0d86009.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/Rectangle%20143.png?updatedAt=1787839841337";
 export const bestSeller1 =
   "https://www.figma.com/api/mcp/asset/880dd470-362a-421a-ab0d-254c37c1fa5a.png";
 export const bestSeller2 =
@@ -23,7 +23,7 @@ export const bestSeller5 =
 export const bestSeller6 =
   "https://www.figma.com/api/mcp/asset/76b6c897-14a5-4e00-a51b-af57ca8eb43a.png";
 export const dealModel =
-  "https://www.figma.com/api/mcp/asset/4061180d-a836-4c96-87a9-ef7a3a8fead1.png";
+  "https://ik.imagekit.io/x9svten4i/Fashion%20Website%20Landing%20Page/image%20537.png?updatedAt=1787839840974";
 export const dealMask =
   "https://www.figma.com/api/mcp/asset/40efb030-d5a3-4897-ba57-96476519678e.svg";
 
